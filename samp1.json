@@ -1,0 +1,4 @@
+[
+    {"instruction": "Translate English to French", "input": "Hello, how are you?", "output": "Bonjour, comment ça va?"},
+    {"instruction": "Summarize the text", "input": "Artificial intelligence is a branch of computer science...", "output": "AI is a field of computer science."}
+  ]
